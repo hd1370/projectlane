@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projectlane\\BidAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98BC47C8-DB24-4E66-9BF8-001257F94E12}|BidAPI.csproj|d:\\projectlane\\bidapi\\controllers\\auctioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BC47C8-DB24-4E66-9BF8-001257F94E12}|BidAPI.csproj|solutionrelative:controllers\\auctioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BC47C8-DB24-4E66-9BF8-001257F94E12}|BidAPI.csproj|d:\\projectlane\\bidapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BC47C8-DB24-4E66-9BF8-001257F94E12}|BidAPI.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BC47C8-DB24-4E66-9BF8-001257F94E12}|BidAPI.csproj|d:\\projectlane\\bidapi\\models\\auction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BC47C8-DB24-4E66-9BF8-001257F94E12}|BidAPI.csproj|solutionrelative:models\\auction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BC47C8-DB24-4E66-9BF8-001257F94E12}|BidAPI.csproj|d:\\projectlane\\bidapi\\models\\bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BC47C8-DB24-4E66-9BF8-001257F94E12}|BidAPI.csproj|solutionrelative:models\\bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BC47C8-DB24-4E66-9BF8-001257F94E12}|BidAPI.csproj|d:\\projectlane\\bidapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BC47C8-DB24-4E66-9BF8-001257F94E12}|BidAPI.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BC47C8-DB24-4E66-9BF8-001257F94E12}|BidAPI.csproj|d:\\projectlane\\bidapi\\repositories\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BC47C8-DB24-4E66-9BF8-001257F94E12}|BidAPI.csproj|solutionrelative:repositories\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BC47C8-DB24-4E66-9BF8-001257F94E12}|BidAPI.csproj|d:\\projectlane\\bidapi\\repositories\\auctionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BC47C8-DB24-4E66-9BF8-001257F94E12}|BidAPI.csproj|solutionrelative:repositories\\auctionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BC47C8-DB24-4E66-9BF8-001257F94E12}|BidAPI.csproj|d:\\projectlane\\bidapi\\repositories\\iauctionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BC47C8-DB24-4E66-9BF8-001257F94E12}|BidAPI.csproj|solutionrelative:repositories\\iauctionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BC47C8-DB24-4E66-9BF8-001257F94E12}|BidAPI.csproj|d:\\projectlane\\bidapi\\services\\auctionhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BC47C8-DB24-4E66-9BF8-001257F94E12}|BidAPI.csproj|solutionrelative:services\\auctionhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BC47C8-DB24-4E66-9BF8-001257F94E12}|BidAPI.csproj|d:\\projectlane\\bidapi\\services\\auctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BC47C8-DB24-4E66-9BF8-001257F94E12}|BidAPI.csproj|solutionrelative:services\\auctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BC47C8-DB24-4E66-9BF8-001257F94E12}|BidAPI.csproj|d:\\projectlane\\bidapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BC47C8-DB24-4E66-9BF8-001257F94E12}|BidAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BC47C8-DB24-4E66-9BF8-001257F94E12}|BidAPI.csproj|d:\\projectlane\\bidapi\\services\\iauctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BC47C8-DB24-4E66-9BF8-001257F94E12}|BidAPI.csproj|solutionrelative:services\\iauctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BC47C8-DB24-4E66-9BF8-001257F94E12}|BidAPI.csproj|d:\\projectlane\\bidapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98BC47C8-DB24-4E66-9BF8-001257F94E12}|BidAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BC47C8-DB24-4E66-9BF8-001257F94E12}|BidAPI.csproj|d:\\projectlane\\bidapi\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{98BC47C8-DB24-4E66-9BF8-001257F94E12}|BidAPI.csproj|solutionrelative:nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuctionController.cs",
+              "DocumentMoniker": "D:\\projectlane\\BidAPI\\Controllers\\AuctionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuctionController.cs",
+              "ToolTip": "D:\\projectlane\\BidAPI\\Controllers\\AuctionController.cs",
+              "RelativeToolTip": "Controllers\\AuctionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:21:15.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\projectlane\\BidAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\projectlane\\BidAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:21:05.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Auction.cs",
+              "DocumentMoniker": "D:\\projectlane\\BidAPI\\Models\\Auction.cs",
+              "RelativeDocumentMoniker": "Models\\Auction.cs",
+              "ToolTip": "D:\\projectlane\\BidAPI\\Models\\Auction.cs",
+              "RelativeToolTip": "Models\\Auction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:20:56.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bid.cs",
+              "DocumentMoniker": "D:\\projectlane\\BidAPI\\Models\\Bid.cs",
+              "RelativeDocumentMoniker": "Models\\Bid.cs",
+              "ToolTip": "D:\\projectlane\\BidAPI\\Models\\Bid.cs",
+              "RelativeToolTip": "Models\\Bid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:20:50.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\projectlane\\BidAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\projectlane\\BidAPI\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:20:44.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuctionRepository.cs",
+              "DocumentMoniker": "D:\\projectlane\\BidAPI\\Repositories\\AuctionRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AuctionRepository.cs",
+              "ToolTip": "D:\\projectlane\\BidAPI\\Repositories\\AuctionRepository.cs",
+              "RelativeToolTip": "Repositories\\AuctionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:20:29.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuctionRepository.cs",
+              "DocumentMoniker": "D:\\projectlane\\BidAPI\\Repositories\\IAuctionRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IAuctionRepository.cs",
+              "ToolTip": "D:\\projectlane\\BidAPI\\Repositories\\IAuctionRepository.cs",
+              "RelativeToolTip": "Repositories\\IAuctionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:19:56.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\projectlane\\BidAPI\\Repositories\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Repositories\\AppDbContext.cs",
+              "ToolTip": "D:\\projectlane\\BidAPI\\Repositories\\AppDbContext.cs",
+              "RelativeToolTip": "Repositories\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:19:54.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuctionHub.cs",
+              "DocumentMoniker": "D:\\projectlane\\BidAPI\\Services\\AuctionHub.cs",
+              "RelativeDocumentMoniker": "Services\\AuctionHub.cs",
+              "ToolTip": "D:\\projectlane\\BidAPI\\Services\\AuctionHub.cs",
+              "RelativeToolTip": "Services\\AuctionHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:19:13.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuctionService.cs",
+              "DocumentMoniker": "D:\\projectlane\\BidAPI\\Services\\AuctionService.cs",
+              "RelativeDocumentMoniker": "Services\\AuctionService.cs",
+              "ToolTip": "D:\\projectlane\\BidAPI\\Services\\AuctionService.cs",
+              "RelativeToolTip": "Services\\AuctionService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvzcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:18:06.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuctionService.cs",
+              "DocumentMoniker": "D:\\projectlane\\BidAPI\\Services\\IAuctionService.cs",
+              "RelativeDocumentMoniker": "Services\\IAuctionService.cs",
+              "ToolTip": "D:\\projectlane\\BidAPI\\Services\\IAuctionService.cs",
+              "RelativeToolTip": "Services\\IAuctionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:18:05.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\projectlane\\BidAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\projectlane\\BidAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-07T17:17:59.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "nlog.config",
+              "DocumentMoniker": "D:\\projectlane\\BidAPI\\nlog.config",
+              "RelativeDocumentMoniker": "nlog.config",
+              "ToolTip": "D:\\projectlane\\BidAPI\\nlog.config",
+              "RelativeToolTip": "nlog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-07T17:17:57.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projectlane\\BidAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\projectlane\\BidAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:17:56.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
