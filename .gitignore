@@ -131,3 +131,7 @@ dist
 /BidAPI/bin/Debug
 /BidAPI/Migrations
 /BidAPI/obj/Debug
+/BidService/bin/Debug
+/BidService/obj/Debug
+/BidSharedLibraries/bin/Debug
+/BidSharedLibraries/obj/Debug

@@ -1,4 +1,4 @@
-﻿namespace BidAPI.Models
+﻿namespace BidSharedLibraries.Models
 {
     public enum AuctionStatus
     {

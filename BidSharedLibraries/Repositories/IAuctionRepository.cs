@@ -1,5 +1,5 @@
-﻿using BidAPI.Models;
-namespace BidAPI.Repository
+﻿using BidSharedLibraries.Models;
+namespace BidSharedLibraries.Repository
 {
     public interface IAuctionRepository
     {

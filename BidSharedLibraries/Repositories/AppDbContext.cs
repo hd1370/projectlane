@@ -1,8 +1,7 @@
-﻿using BidAPI.Models;
+﻿using BidSharedLibraries.Models;
 using Microsoft.EntityFrameworkCore;
-using System.Collections.Generic;
 
-namespace BidAPI.Repository
+namespace BidSharedLibraries.Repository
 {
     public class AppDbContext : DbContext
     {

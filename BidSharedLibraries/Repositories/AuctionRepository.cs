@@ -1,6 +1,6 @@
-﻿using BidAPI.Models;
-using Microsoft.EntityFrameworkCore;
-namespace BidAPI.Repository
+﻿using BidSharedLibraries.Models;
+
+namespace BidSharedLibraries.Repository
 {
     public class AuctionRepository : IAuctionRepository
     {

@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BidAPI", "BidAPI.csproj", "{98BC47C8-DB24-4E66-9BF8-001257F94E12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BidService", "..\BidService\BidService.csproj", "{D6695D6D-6C34-4CB3-9237-EDCE0EEC78F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BidSharedLibraries", "..\BidSharedLibraries\BidSharedLibraries.csproj", "{CEB15FC7-50AB-431C-B08E-D0583B8A976B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{98BC47C8-DB24-4E66-9BF8-001257F94E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98BC47C8-DB24-4E66-9BF8-001257F94E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98BC47C8-DB24-4E66-9BF8-001257F94E12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6695D6D-6C34-4CB3-9237-EDCE0EEC78F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6695D6D-6C34-4CB3-9237-EDCE0EEC78F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6695D6D-6C34-4CB3-9237-EDCE0EEC78F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6695D6D-6C34-4CB3-9237-EDCE0EEC78F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEB15FC7-50AB-431C-B08E-D0583B8A976B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB15FC7-50AB-431C-B08E-D0583B8A976B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB15FC7-50AB-431C-B08E-D0583B8A976B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB15FC7-50AB-431C-B08E-D0583B8A976B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
